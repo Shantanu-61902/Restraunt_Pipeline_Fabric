@@ -1,0 +1,91 @@
+staff_id,staff_name,role,shift,role_level,store_id
+ST001,Girish Gara,Manager,Evening,Operations,S001
+ST002,Vrishti Krish,Chef,Evening,Frontline,S001
+ST003,Lohit Rau,Chef,Morning,Frontline,S001
+ST004,Viraj Bhargava,Chef,Evening,Frontline,S001
+ST005,Zayyan Sabharwal,Chef,Morning,Frontline,S001
+ST006,Geetika Dora,Chef,Evening,Frontline,S001
+ST007,Ekanta Ray,Cashier,Evening,Frontline,S001
+ST008,Amrita Kadakia,Cashier,Evening,Frontline,S001
+ST009,Xalak Munshi,Delivery Executive,Morning,Frontline,S001
+ST010,Ekanta Shenoy,Unknown,Unknown,Unknown,S001
+ST011,Yoshita Bumb,Delivery Executive,Morning,Frontline,S001
+ST012,Pavani Brahmbhatt,Delivery Executive,Morning,Frontline,S001
+ST013,Joshua Arya,Delivery Executive,Evening,Frontline,S001
+ST014,Zinal Dara,Cleaner,Morning,Support,S001
+ST015,Rudra Sarma,Cleaner,Morning,Support,S001
+ST001,Tripti Dhar,Unknown,Evening,Unknown,S002
+ST002,Waida Sangha,Chef,Morning,Frontline,S002
+ST003,Hemal Bava,Chef,Morning,Frontline,S002
+ST004,Harish Kuruvilla,Chef,Morning,Frontline,S002
+ST005,Zaid Talwar,Chef,Morning,Frontline,S002
+ST006,Anjali Kunda,Chef,Evening,Frontline,S002
+ST007,Matthew Lad,Cashier,Morning,Frontline,S002
+ST008,Kashvi Bala,Cashier,Evening,Frontline,S002
+ST009,Jatin Goel,Delivery Executive,Morning,Frontline,S002
+ST010,Gavin Tara,Delivery Executive,Unknown,Frontline,S002
+ST011,Champak Parmer,Delivery Executive,Evening,Frontline,S002
+ST012,Aradhana Sood,Delivery Executive,Morning,Frontline,S002
+ST013,Abeer Raval,Delivery Executive,Evening,Frontline,S002
+ST014,Laksh Borah,Cleaner,Evening,Support,S002
+ST015,Zarna Date,Cleaner,Morning,Support,S002
+ST001,Raksha Narayanan,Manager,Morning,Operations,S003
+ST002,Samar Bhandari,Chef,Morning,Frontline,S003
+ST003,Shaurya Ramesh,Chef,Morning,Frontline,S003
+ST004,Anthony Peri,Chef,Morning,Frontline,S003
+ST005,Owen Sarna,Chef,Morning,Frontline,S003
+ST006,Chandani Dhingra,Chef,Evening,Frontline,S003
+ST007,Sneha Suresh,Cashier,Morning,Frontline,S003
+ST008,Tanvi Deshmukh,Unknown,Morning,Unknown,S003
+ST009,Qushi Borah,Delivery Executive,Morning,Frontline,S003
+ST010,Neelima Thaman,Delivery Executive,Evening,Frontline,S003
+ST011,Maanav Bajaj,Delivery Executive,Unknown,Frontline,S003
+ST012,Chasmum Kapoor,Delivery Executive,Evening,Frontline,S003
+ST013,Vrinda Panchal,Delivery Executive,Evening,Frontline,S003
+ST014,Faraj Raj,Cleaner,Morning,Support,S003
+ST015,Chaaya Balakrishnan,Cleaner,Evening,Support,S003
+ST001,Yashodhara Sharma,Manager,Evening,Operations,S004
+ST002,Abeer Varkey,Chef,Evening,Frontline,S004
+ST003,Jhalak Pandey,Chef,Evening,Frontline,S004
+ST004,Ishani Baria,Chef,Morning,Frontline,S004
+ST005,Arunima Bahl,Chef,Evening,Frontline,S004
+ST006,Kai Seshadri,Chef,Evening,Frontline,S004
+ST007,Raghav Panchal,Cashier,Morning,Frontline,S004
+ST008,Omaja Uppal,Cashier,Morning,Frontline,S004
+ST009,Sachi Goyal,Unknown,Evening,Unknown,S004
+ST010,Darsh Sarkar,Delivery Executive,Evening,Frontline,S004
+ST011,Maya Sunder,Delivery Executive,Unknown,Frontline,S004
+ST012,Ojasvi Bhalla,Delivery Executive,Morning,Frontline,S004
+ST013,Falan Seshadri,Delivery Executive,Morning,Frontline,S004
+ST014,Udant Gokhale,Cleaner,Morning,Support,S004
+ST015,Wahab Ramanathan,Cleaner,Morning,Support,S004
+ST001,Charita Datta,Manager,Evening,Operations,S005
+ST002,Gabriel Pathak,Chef,Evening,Frontline,S005
+ST003,Urvashi Pillay,Chef,Morning,Frontline,S005
+ST004,Vihaan Ram,Chef,Morning,Frontline,S005
+ST005,Jackson Dalal,Chef,Evening,Frontline,S005
+ST006,Nidhi Sekhon,Chef,Morning,Frontline,S005
+ST007,Xavier Raghavan,Cashier,Morning,Frontline,S005
+ST008,Utkarsh Bawa,Unknown,Evening,Unknown,S005
+ST009,Lajita Andra,Delivery Executive,Morning,Frontline,S005
+ST010,Tanveer Naik,Delivery Executive,Unknown,Frontline,S005
+ST011,Avi Saini,Delivery Executive,Morning,Frontline,S005
+ST012,Harish Krishnan,Delivery Executive,Morning,Frontline,S005
+ST013,Pahal Agate,Delivery Executive,Morning,Frontline,S005
+ST014,Rishi Wadhwa,Cleaner,Evening,Support,S005
+ST015,Mekhala Vora,Cleaner,Evening,Support,S005
+ST001,Finn Anand,Manager,Evening,Operations,S006
+ST002,Lajita Rajan,Chef,Morning,Frontline,S006
+ST003,Champak Sarkar,Chef,Morning,Frontline,S006
+ST004,Kabir Krishnamurthy,Chef,Morning,Frontline,S006
+ST005,Ekanta Minhas,Chef,Morning,Frontline,S006
+ST006,Vyanjana Kari,Chef,Morning,Frontline,S006
+ST007,Jagat Natarajan,Cashier,Morning,Frontline,S006
+ST008,Frederick Behl,Unknown,Evening,Unknown,S006
+ST009,Divya Subramanian,Delivery Executive,Morning,Frontline,S006
+ST010,Pahal Keer,Delivery Executive,Unknown,Frontline,S006
+ST011,Guneet Aggarwal,Delivery Executive,Morning,Frontline,S006
+ST012,Tripti Ganesh,Delivery Executive,Evening,Frontline,S006
+ST013,Harsh Dora,Delivery Executive,Evening,Frontline,S006
+ST014,Theodore Kapadia,Cleaner,Morning,Support,S006
+ST015,Bhavini Walia,Cleaner,Evening,Support,S006

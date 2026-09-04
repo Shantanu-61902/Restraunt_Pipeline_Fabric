@@ -1,0 +1,21 @@
+product_id,product_name,category,price,price_band
+P001,Margherita Pizza,Pizza,299.0,Premium
+P002,Farmhouse Pizza,Pizza,399.0,Premium
+P003,Veg Extravaganza,Pizza,499.0,Luxury
+P004,Peppy Paneer,Pizza,449.0,Luxury
+P005,Garlic Bread,Sides,149.0,Mid
+P006,Stuffed Garlic Bread,Sides,199.0,Mid
+P007,Coke,Beverage,60.0,Budget
+P008,Sprite,Beverage,60.0,Budget
+P009,Brownie,Dessert,99.0,Mid
+P010,Choco Lava Cake,Dessert,129.0,Mid
+P011,Taco Mexicana,Sides,169.0,Mid
+P012,Cheese Dip,Sides,49.0,Budget
+P013,Pasta,Main,249.0,Premium
+P014,Veg Burger,Main,179.0,Mid
+P015,Chicken Burger,Main,229.0,Premium
+P016,Chicken Wings,Sides,299.0,Premium
+P017,Mousse Cake,Dessert,149.0,Mid
+P018,Iced Tea,Beverage,89.0,Mid
+P019,Water Bottle,Beverage,20.0,Budget
+P020,Paneer Wrap,Main,199.0,Mid
