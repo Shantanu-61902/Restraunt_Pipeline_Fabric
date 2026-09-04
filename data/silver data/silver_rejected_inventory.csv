@@ -1,0 +1,1 @@
+batch_id,closing_stock,ingestion_timestamp,inventory_date,inventory_id,opening_stock,product_id,sold_qty,source_file,store_id,inventory_sk,reject_reason,quarantine_at

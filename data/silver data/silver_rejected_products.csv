@@ -1,0 +1,1 @@
+product_id,batch_id,category,ingestion_timestamp,price,product_name,source_file,store_id,reject_reason,quarantine_at
