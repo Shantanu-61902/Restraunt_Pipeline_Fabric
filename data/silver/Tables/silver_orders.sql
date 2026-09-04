@@ -1,0 +1,26 @@
+CREATE TABLE [silver].[silver_orders] (
+
+	[staff_id] varchar(8000) NULL, 
+	[customer_id] varchar(8000) NULL, 
+	[batch_id] varchar(8000) NULL, 
+	[ingestion_timestamp] varchar(8000) NULL, 
+	[order_id] varchar(8000) NULL, 
+	[order_status] varchar(8000) NULL, 
+	[order_timestamp] datetime2(6) NULL, 
+	[payment_mode] varchar(8000) NULL, 
+	[source_file] varchar(8000) NULL, 
+	[store_id] varchar(2048) NULL, 
+	[order_sk] varchar(8000) NULL, 
+	[order_date] date NULL, 
+	[order_hour] int NULL, 
+	[order_month] int NULL, 
+	[order_day] int NULL, 
+	[order_weekday] varchar(8000) NULL, 
+	[week_of_year] int NULL, 
+	[quarter] int NULL, 
+	[financial_year] varchar(8000) NULL, 
+	[peak_hour_flag] varchar(8000) NULL, 
+	[weekend_flag] varchar(8000) NULL, 
+	[meal_period] varchar(8000) NULL, 
+	[silver_processed_at] datetime2(6) NULL
+);
